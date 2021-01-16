@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Exercício Vetor\bin\Debug\netcoreapp3.1\Exercício Vetor.exe
+C:\Users\ACER\Desktop\Exercício Vetor\bin\Debug\netcoreapp3.1\Exercício Vetor.deps.json
+C:\Users\ACER\Desktop\Exercício Vetor\bin\Debug\netcoreapp3.1\Exercício Vetor.runtimeconfig.json
+C:\Users\ACER\Desktop\Exercício Vetor\bin\Debug\netcoreapp3.1\Exercício Vetor.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Exercício Vetor\bin\Debug\netcoreapp3.1\Exercício Vetor.dll
+C:\Users\ACER\Desktop\Exercício Vetor\bin\Debug\netcoreapp3.1\Exercício Vetor.pdb
+C:\Users\ACER\Desktop\Exercício Vetor\obj\Debug\netcoreapp3.1\Exercício Vetor.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Exercício Vetor\obj\Debug\netcoreapp3.1\Exercício Vetor.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Exercício Vetor\obj\Debug\netcoreapp3.1\Exercício Vetor.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Exercício Vetor\obj\Debug\netcoreapp3.1\Exercício Vetor.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Exercício Vetor\obj\Debug\netcoreapp3.1\Exercício Vetor.dll
+C:\Users\ACER\Desktop\Exercício Vetor\obj\Debug\netcoreapp3.1\Exercício Vetor.pdb
+C:\Users\ACER\Desktop\Exercício Vetor\obj\Debug\netcoreapp3.1\Exercício Vetor.genruntimeconfig.cache
